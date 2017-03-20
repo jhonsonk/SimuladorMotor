@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ACIONAMENTO
+  - MEDIDOR_1
+  - MEDIDOR_2
+  - MEDIDOR_3
+  - SASSI
+  - VARIADOR_1
+  - VARIADOR_2
+  - EMERGENCIA
+  - REOSTATO
+  - MOTOR
+  - CARGA
+  - 1:4
+  - 1:5
+  - 1:7
+  - 1:9
+  - 2:3
+  - 2:6
+  - 2:12
+  - 2:14
+  - 3:6
+  - 3:12
+  - 3:14
+  - 4:6
+  - 4:12
+  - 4:14
+  - 5:7
+  - 5:9
+  - 6:12
+  - 6:14
+  - 7:9
+  - 8:15
+  - 8:16
+  - 8:17
+  - 10:13
+  - 10:18
+  - 10:19
+  - 10:20
+  - 10:21
+  - 10:22
+  - 10:23
+  - 11:15
+  - 11:16
+  - 11:17
+  - 12:14
+  - 13:18
+  - 13:19
+  - 13:20
+  - 13:21
+  - 13:22
+  - 13:23
+  - 18:20
+  - 18:21
+  - 18:22
+  - 18:23
+  - 19:20
+  - 19:21
+  - 19:22
+  - 19:23
+  - 20:22
+  - 20:23
+  - 21:22
+  - 21:23
+  - mapa-0
+  - mapa-1
+  - mapa-2
+  - mapa-3
+  - mapa-4
+  - mapa-5
+  - mapa-6
+  - mapa-7
+  - mapa-8
+  - status_volt
+  - status_1A
+  - status_5A
+  - status_velo
+  - status_Rfc
+  - status_Rac
+  - label
+  - bancada
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
